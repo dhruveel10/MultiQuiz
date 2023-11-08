@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+
+    <string name="q1">Which is the capital of Australia?\n</string>
+    <string name="q1a1">Sydney</string>
+    <string name="q1a2">melbourne</string>
+    <string name="q1a3">canberra</string>
+    <string name="q1a4">brisbane</string>
+
+    <string name="q2">Who won La Liga last year?\n</string>
+    <string name="q2a1">Real Madrid</string>
+    <string name="q2a2">Atletico Madrid</string>
+    <string name="q2a3">Barcelona</string>
+    <string name="q2a4">Sevilla</string>
+
+    <string name="q3">Who won treble twice?\n</string>
+    <string name="q3a1">Barcelona</string>
+    <string name="q3a2">Man City</string>
+    <string name="q3a3">Man United</string>
+    <string name="q3a4">Real Madrid</string>
+
+    <string name="q4">My major is?\n</string>
+    <string name="q4a1">Civil</string>
+    <string name="q4a2">ECE</string>
+    <string name="q4a3">DA</string>
+    <string name="q4a4">CS</string>
+
+    <string name="lifeline">Hint</string>
+    <string name="reset">Submit</string>
+    <string name="correct_toast">Yay! Correct answer!</string>
+    <string name="incorrect_toast">Oops. Incorrect :(</string>
+    <string name="summary_heading">Quiz Summary</string>
+    <string name="correct_answers_label">Correct Answers:</string>
+    <string name="hints_used_label">Hints Used:</string>
+    <string name="reset_all_button">Reset All</string>
+</resources>
